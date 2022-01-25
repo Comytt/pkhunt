@@ -11,21 +11,3 @@
 .clues {
   text-align: center;
 }
-body {
-  height: 1000px;
-  position: relative;
-}
-.himage {
-  background: red;
-  height: 100px;
-  width: 100%;
-}
-.htext {
-  background: green;
-  height: 100px;
-  width: 100%;
-}
-.stick {
-  position: fixed;
-  top: 0;
-}
