@@ -21,8 +21,9 @@
   height: 40px;
   background: white;
   /*postion of text*/
-  position: absolute;
-  top: 100%;
-  right: 0%;
-
+  position: absolute; 
+  bottom: 0; 
+  right: 0; 
+  width: 100px; 
+  text-align:right;
 }
