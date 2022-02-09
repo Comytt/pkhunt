@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 .header {
-  padding: 0px;
+  padding: 50px;
   text-align: center;
   background: #1abc9c;
   color: white;
@@ -21,10 +21,5 @@
   height: 40px;
   background: white;
   /*postion of text*/
-  position: absolute; 
-  bottom: 0; 
-  right: 0; 
-  width: 100px; 
-  text-align: right;
-  display: inline-block;
+  
 }
